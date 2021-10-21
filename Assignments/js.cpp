@@ -30,6 +30,10 @@ int main()
     {
         cout<<"done"<<endl;
     }
+    else
+    {
+        cout<<"kelaow"<<endl;
+    }
     
     costofgarden(n,len,brea,rs);    
 }
