@@ -26,7 +26,10 @@ int main()
     cin>>n;
     int len, brea,rs;
     cin>>len>>brea>>rs;
-    
+    if(len==1)
+    {
+        cout<<"done"<<endl;
+    }
     
     costofgarden(n,len,brea,rs);    
 }
