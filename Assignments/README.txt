@@ -1,1 +1,1 @@
-My name is Sawan Kundu
+My name is Sawan Kundu. I am an EE student.
